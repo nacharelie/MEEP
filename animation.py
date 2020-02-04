@@ -1,5 +1,5 @@
-""" Module qui permet d'ajouter l'animation d'une image en fonction d'une fenêtre, d'un nom de dossier 
-qui contient les sprites.
+""" Module qui permet d'ajouter l'animation d'une image en fonction d'une fenêtre (qui existe déjà),
+et d'un nom de dossier qui contient les sprites.
 Le module va créer l'animation
 Pour utiliser le module indiquer :
 import animation
