@@ -77,7 +77,7 @@ def mise_a_jour_grille(grille):
             elif j == "3":
                 for k_index, k in enumerate(grille[i_index:]):
                     if k[j_index] == "5":
-                        grille[j_index+k_index][j_index] = "6" # à vérifier
+                        grille[i_index+k_index][j_index] = "6"
                     elif k[j_index] == "B":
                         break
 
